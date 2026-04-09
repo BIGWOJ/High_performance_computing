@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b10dfd3-8e1c-4b0c-b6a1-7fc52c11a227" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab2/code2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/base.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_10_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_150_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_250_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_25_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/dynamic_50_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_10_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_150_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_250_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_25_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/pics/static_50_collapse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/code3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/zad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/matrixA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/matrixA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/matrixB.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/matrixB.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/matrix_txt.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3C6zpEWrDlNBCTvQ2vx0yQx4xm4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "P:/Python/venv"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b10dfd3-8e1c-4b0c-b6a1-7fc52c11a227" name="Changes" comment="" />
+      <created>1775720988287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775720988287</updated>
+    </task>
+    <servers />
+  </component>
+</project>

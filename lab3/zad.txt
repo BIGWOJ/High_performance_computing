@@ -1,0 +1,3 @@
+zmieniać kolejność pętli tak, aby znaleźć najszybsze rozwiązanie, skrócony czas powinien być znaczący
+kolejność pętli, czyli standardowo jest IJK to można zmienić np na IKJ, ale samo mnożenie, czyli działanie ma zostać
+tylko sam for() ma być w innych miejscach
